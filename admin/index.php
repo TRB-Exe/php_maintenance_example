@@ -15,7 +15,7 @@ font-family: Arial; }
                               <h1>Example Admin Panel</h1>
                               <a href="maintenance_manage.php">Manage maintenance mode</a>
                                 
-                                        </a></center>
+                                        </center>
                                         <p><em>amogus sus</em></p>
                                         </body>
                                         </html>
